@@ -1,0 +1,4 @@
+TransferDataToSolver Start 1.1e+03 
+TransferDataToSolver End 1.1e+03 
+ShowFirstPlot Start 1.1e+03 
+ShowFirstPlot End 1.1e+03 
